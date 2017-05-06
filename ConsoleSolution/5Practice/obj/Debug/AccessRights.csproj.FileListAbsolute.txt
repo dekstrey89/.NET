@@ -1,0 +1,5 @@
+C:\Users\alex\Desktop\.NET\ConsoleSolution\5Practice\bin\Debug\5Practice.exe.config
+C:\Users\alex\Desktop\.NET\ConsoleSolution\5Practice\bin\Debug\5Practice.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\5Practice\bin\Debug\5Practice.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\5Practice\obj\Debug\5Practice.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\5Practice\obj\Debug\5Practice.pdb

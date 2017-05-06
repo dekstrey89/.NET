@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _5Practice
+namespace AccessRights
 {
   /// <summary>
   /// Тип прав.
