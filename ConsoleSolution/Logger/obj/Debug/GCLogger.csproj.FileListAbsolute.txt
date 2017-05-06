@@ -1,0 +1,6 @@
+C:\Users\alex\Desktop\.NET\ConsoleSolution\Logger\bin\Debug\Logger.exe.config
+C:\Users\alex\Desktop\.NET\ConsoleSolution\Logger\bin\Debug\Logger.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\Logger\bin\Debug\Logger.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\Logger\obj\Debug\GCLogger.csprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\.NET\ConsoleSolution\Logger\obj\Debug\Logger.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\Logger\obj\Debug\Logger.pdb
