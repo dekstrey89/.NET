@@ -1,0 +1,6 @@
+C:\Users\alex\Desktop\.NET\ConsoleSolution\ComplexNumberProject\bin\Debug\ComplexNumberProject.exe.config
+C:\Users\alex\Desktop\.NET\ConsoleSolution\ComplexNumberProject\bin\Debug\ComplexNumberProject.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\ComplexNumberProject\bin\Debug\ComplexNumberProject.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\ComplexNumberProject\obj\Debug\ComplexNumberProject.csprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\.NET\ConsoleSolution\ComplexNumberProject\obj\Debug\ComplexNumberProject.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\ComplexNumberProject\obj\Debug\ComplexNumberProject.pdb
