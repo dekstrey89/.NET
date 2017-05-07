@@ -10,6 +10,9 @@ namespace EqualsProject
   {
     static void Main(string[] args)
     {
+      Console.WriteLine(new StringValue("AAA").Equals(new StringValue("AAA")));
+
+      Console.ReadKey();
     }
   }
 }

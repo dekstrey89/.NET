@@ -1,0 +1,6 @@
+C:\Users\alex\Desktop\.NET\ConsoleSolution\EqualsProject\bin\Debug\EqualsProject.exe.config
+C:\Users\alex\Desktop\.NET\ConsoleSolution\EqualsProject\bin\Debug\EqualsProject.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\EqualsProject\bin\Debug\EqualsProject.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\EqualsProject\obj\Debug\EqualsProject.csprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\.NET\ConsoleSolution\EqualsProject\obj\Debug\EqualsProject.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\EqualsProject\obj\Debug\EqualsProject.pdb
