@@ -3,3 +3,8 @@ C:\Users\alex\Desktop\.NET\ConsoleSolution\5Practice\bin\Debug\5Practice.exe
 C:\Users\alex\Desktop\.NET\ConsoleSolution\5Practice\bin\Debug\5Practice.pdb
 C:\Users\alex\Desktop\.NET\ConsoleSolution\5Practice\obj\Debug\5Practice.exe
 C:\Users\alex\Desktop\.NET\ConsoleSolution\5Practice\obj\Debug\5Practice.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\AccessRights\bin\Debug\AccessRights.exe.config
+C:\Users\alex\Desktop\.NET\ConsoleSolution\AccessRights\bin\Debug\AccessRights.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\AccessRights\bin\Debug\AccessRights.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\AccessRights\obj\Debug\AccessRights.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\AccessRights\obj\Debug\AccessRights.pdb

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessRights", "5Practice\AccessRights.csproj", "{21EC369B-94AB-42B0-ADB0-D912F2992103}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessRights", "AccessRights\AccessRights.csproj", "{21EC369B-94AB-42B0-ADB0-D912F2992103}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingForLogging", "FormattingForLogging\FormattingForLogging.csproj", "{8CE0150C-AF45-42CD-98B4-09E8362CBAFD}"
 EndProject
