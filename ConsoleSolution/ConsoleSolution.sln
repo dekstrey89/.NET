@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualsProject", "EqualsProj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumberProject", "ComplexNumberProject\ComplexNumberProject.csproj", "{F9DEF8B8-1689-4A49-8794-32F8F42D50FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogParserProject", "LogParserProject\LogParserProject.csproj", "{B87E9ED5-D171-4674-81C8-5F564463CF0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F9DEF8B8-1689-4A49-8794-32F8F42D50FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9DEF8B8-1689-4A49-8794-32F8F42D50FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9DEF8B8-1689-4A49-8794-32F8F42D50FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87E9ED5-D171-4674-81C8-5F564463CF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87E9ED5-D171-4674-81C8-5F564463CF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87E9ED5-D171-4674-81C8-5F564463CF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87E9ED5-D171-4674-81C8-5F564463CF0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

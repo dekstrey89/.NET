@@ -1,0 +1,5 @@
+C:\Users\alex\Desktop\.NET\ConsoleSolution\LogParserProject\bin\Debug\LogParserProject.exe.config
+C:\Users\alex\Desktop\.NET\ConsoleSolution\LogParserProject\bin\Debug\LogParserProject.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\LogParserProject\bin\Debug\LogParserProject.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\LogParserProject\obj\Debug\LogParserProject.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\LogParserProject\obj\Debug\LogParserProject.pdb
