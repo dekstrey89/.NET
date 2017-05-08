@@ -11,6 +11,9 @@ namespace LogParserProject
   {
     public static void Main(string[] args)
     {
+      // Написать функцию, на вход которой подаются лог-файл и интервал дат, 
+      // а на выходе у нее – количество записей за указный интервал.
+
       using (var logFile = new FileStream("log.txt", FileMode.Create))
       {
         CreateLogFile(logFile);
@@ -20,6 +23,19 @@ namespace LogParserProject
       {
         GetQuantityBugs(logFile, DateTime.Now.AddDays(2), DateTime.Now.AddDays(4));
       }
+
+      Console.WriteLine("\n");
+
+      // Проверить, что получается при преобразовании экземпляров класса в строку(методом ToString).
+      // Сделать выводы о том, как правильно разрабатывать классы, которые должны преобразовываться в строки.
+
+      var objOverrideToString = new OverrideToString();
+      var objNotOverrideToString = new NotOverrideToString();
+
+      Console.WriteLine("Класс objOverrideToString выводит результат " +
+                        "переопределенного метода ToString(): {0}\n", objOverrideToString);
+      Console.WriteLine("Класс objNotOverrideToString выводит результат метода ToString() " +
+                        "базового класса Object: {0}", objNotOverrideToString);
 
       Console.ReadKey();
     }
