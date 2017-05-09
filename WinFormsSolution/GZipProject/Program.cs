@@ -18,11 +18,21 @@ namespace GZipProject
     {
       CreateGZipFile();
 
-      Application.EnableVisualStyles();
-      Application.SetCompatibleTextRenderingDefault(false);
-      Application.Run(new Form1());
+      try
+      {
+        Application.EnableVisualStyles();
+        Application.SetCompatibleTextRenderingDefault(false);
+        Application.Run(new Form1());
+      }
+      catch (LoadFileException e)
+      {
+        MessageBox.Show($"{e.Message}\n{e.InnerException}");
+      }
     }
 
+    /// <summary>
+    /// Создание текстового файла и его сжатой версии.
+    /// </summary>
     public static void CreateGZipFile()
     {
       const string text = "When the going gets tough, the tough get going.\n" +
