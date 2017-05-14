@@ -3,3 +3,4 @@ C:\Users\alex\Desktop\.NET\ConsoleSolution\FormattingForLogging\bin\Debug\Format
 C:\Users\alex\Desktop\.NET\ConsoleSolution\FormattingForLogging\bin\Debug\FormattingForLogging.pdb
 C:\Users\alex\Desktop\.NET\ConsoleSolution\FormattingForLogging\obj\Debug\FormattingForLogging.exe
 C:\Users\alex\Desktop\.NET\ConsoleSolution\FormattingForLogging\obj\Debug\FormattingForLogging.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\FormattingForLogging\obj\Debug\FormattingForLogging.csprojResolveAssemblyReference.cache

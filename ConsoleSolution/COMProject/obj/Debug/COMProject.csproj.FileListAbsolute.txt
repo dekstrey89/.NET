@@ -1,0 +1,7 @@
+C:\Users\alex\Desktop\.NET\ConsoleSolution\COMProject\bin\Debug\COMProject.exe.config
+C:\Users\alex\Desktop\.NET\ConsoleSolution\COMProject\bin\Debug\COMProject.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\COMProject\bin\Debug\COMProject.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\COMProject\obj\Debug\COMProject.csprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\.NET\ConsoleSolution\COMProject\obj\Debug\COMProject.exe
+C:\Users\alex\Desktop\.NET\ConsoleSolution\COMProject\obj\Debug\COMProject.pdb
+C:\Users\alex\Desktop\.NET\ConsoleSolution\COMProject\obj\Debug\COMProject.csproj.ResolveComReference.cache

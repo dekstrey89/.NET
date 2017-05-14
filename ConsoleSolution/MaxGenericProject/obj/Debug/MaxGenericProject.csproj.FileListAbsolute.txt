@@ -1,6 +1,5 @@
 C:\Users\alex\Desktop\.NET\ConsoleSolution\MaxGenericProject\bin\Debug\MaxGenericProject.exe.config
 C:\Users\alex\Desktop\.NET\ConsoleSolution\MaxGenericProject\bin\Debug\MaxGenericProject.exe
 C:\Users\alex\Desktop\.NET\ConsoleSolution\MaxGenericProject\bin\Debug\MaxGenericProject.pdb
-C:\Users\alex\Desktop\.NET\ConsoleSolution\MaxGenericProject\obj\Debug\MaxGenericProject.csprojResolveAssemblyReference.cache
 C:\Users\alex\Desktop\.NET\ConsoleSolution\MaxGenericProject\obj\Debug\MaxGenericProject.exe
 C:\Users\alex\Desktop\.NET\ConsoleSolution\MaxGenericProject\obj\Debug\MaxGenericProject.pdb
