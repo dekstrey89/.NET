@@ -8,15 +8,23 @@ namespace DomainProject
   {
     private static void Main(string[] args)
     {
-      Assembly assembly = Assembly.LoadFile("c:/Users/alex/Desktop/.NET/ConsoleSolution/DomainProject/bin/Debug/OldVersion/ReflectionProject.dll");
-      AppDomain domain = AppDomain.CreateDomain("First Domain");
-      string typeName = typeof().FullName;
+      var oldAssembly = Assembly.LoadFile(@"c:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\DomainProject\bin\Debug\OldVersion\ReflectionProject.dll");
 
-      ObjectHandle handle = domain.CreateInstance(assembly.GetName().Name, typeName);         
-      var printer = handle.Unwrap() as NewVersion::ReflectionProject.PropertiesPrinter;
-      printer.Print();                                         
+      foreach (var type in oldAssembly.GetExportedTypes())
+      {
+        var c = Activator.CreateInstance(type);
+        type.InvokeMember("Print", BindingFlags.InvokeMethod, null, c, null);
+      }
 
-      Console.WriteLine("\n\nDone\n\n");
+      Console.WriteLine("\n\n");
+
+      var newAssembly = Assembly.LoadFile(@"c:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\DomainProject\bin\Debug\NewVersion\ReflectionProject.dll");
+
+      foreach (var type in newAssembly.GetExportedTypes())
+      {
+        var c = Activator.CreateInstance(type);
+        type.InvokeMember("Print", BindingFlags.InvokeMethod, null, c, null);
+      }
 
 
       //Assembly assembly2 = Assembly.Load("ReflectionProject2");

@@ -4,3 +4,9 @@ C:\Users\alex\Desktop\.NET\ConsoleSolution\ReflectionProject\bin\Debug\Reflectio
 C:\Users\alex\Desktop\.NET\ConsoleSolution\ReflectionProject\bin\Debug\ReflectionProject.dll
 C:\Users\alex\Desktop\.NET\ConsoleSolution\ReflectionProject\obj\Debug\ReflectionProject.dll
 C:\Users\alex\Desktop\.NET\ConsoleSolution\ReflectionProject\obj\Debug\ReflectionProject.csprojResolveAssemblyReference.cache
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\ReflectionProject\bin\Debug\ReflectionProject.dll.config
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\ReflectionProject\bin\Debug\ReflectionProject.dll
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\ReflectionProject\bin\Debug\ReflectionProject.pdb
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\ReflectionProject\obj\Debug\ReflectionProject.dll
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\ReflectionProject\obj\Debug\ReflectionProject.pdb
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\ReflectionProject\obj\Debug\ReflectionProject.csprojResolveAssemblyReference.cache

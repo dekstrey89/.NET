@@ -4,3 +4,9 @@ C:\Users\alex\Desktop\.NET\ConsoleSolution\DomainProject\bin\Debug\DomainProject
 C:\Users\alex\Desktop\.NET\ConsoleSolution\DomainProject\obj\Debug\DomainProject.exe
 C:\Users\alex\Desktop\.NET\ConsoleSolution\DomainProject\obj\Debug\DomainProject.pdb
 C:\Users\alex\Desktop\.NET\ConsoleSolution\DomainProject\obj\Debug\DomainProject.csprojResolveAssemblyReference.cache
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\DomainProject\bin\Debug\DomainProject.exe.config
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\DomainProject\bin\Debug\DomainProject.exe
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\DomainProject\bin\Debug\DomainProject.pdb
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\DomainProject\obj\Debug\DomainProject.csprojResolveAssemblyReference.cache
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\DomainProject\obj\Debug\DomainProject.exe
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\DomainProject\obj\Debug\DomainProject.pdb

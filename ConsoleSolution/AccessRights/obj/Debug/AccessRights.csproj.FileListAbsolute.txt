@@ -9,3 +9,4 @@ C:\Users\alex\Desktop\.NET\ConsoleSolution\AccessRights\bin\Debug\AccessRights.p
 C:\Users\alex\Desktop\.NET\ConsoleSolution\AccessRights\obj\Debug\AccessRights.exe
 C:\Users\alex\Desktop\.NET\ConsoleSolution\AccessRights\obj\Debug\AccessRights.pdb
 C:\Users\alex\Desktop\.NET\ConsoleSolution\AccessRights\obj\Debug\AccessRights.csprojResolveAssemblyReference.cache
+C:\Users\Vyatchanin_AS\Desktop\.NET\ConsoleSolution\AccessRights\bin\Debug\AccessRights.exe.config
